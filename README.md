@@ -1,6 +1,10 @@
 Dojo Rules
 ==========
 
+
 This repository contains a list of dojo rules for the Deadly Vipers dojo
 
-[All members should read the rules](https://github.com/giogiokuma/dojo_rules/wiki)
+All members should read the rules.
+
+For more information, checkout the [deadlyvipers](https://github.com/deadlyvipers).
+
